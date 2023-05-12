@@ -13,7 +13,7 @@
       "requirement": "optional"
     },
     "base_address": {
-      "description": "The memory address that was access or requested.",
+      "description": "The memory address that was accessed or requested.",
       "group": "primary",
       "requirement": "recommended"
     },
@@ -22,7 +22,7 @@
       "requirement": "optional"
     },
     "size": {
-      "description": "The memory size that was access or requested.",
+      "description": "The memory size that was accessed or requested.",
       "group": "primary"
     },
     "process": {
